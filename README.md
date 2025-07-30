@@ -1,5 +1,5 @@
 
-<p align="center"  ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devam+Pandey;I+am+A+software+Engineer" alt="Typing SVG" /></a> </p>
+<p align="center"  ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devam+Pandey;I+am+A+software+Engineer" alt="Typing SVG" /></a> </p>
 
 ---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastboltt&theme=onestar&column=4&margin-w=15&margin-h=15" alt="beastboltt" /></a> </p>
