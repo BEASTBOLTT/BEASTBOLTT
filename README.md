@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastboltt" alt="beastboltt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastboltt&theme=onestar&column=4&margin-w=15&margin-h=15" alt="beastboltt" /></a> </p>
 
 ---
 - 🌱 I’m currently learning **Web Development**
