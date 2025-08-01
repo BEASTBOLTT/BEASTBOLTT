@@ -31,7 +31,7 @@
 <h3 align="center">Github Stats:</h3>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastboltt&theme=midnight-purple" alt="beastboltt" /></p>
+
 
 <table align="center">
   <tbody><tr>
