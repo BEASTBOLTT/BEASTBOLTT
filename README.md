@@ -84,10 +84,18 @@
 ---
 <h3 align="center">Leetcode Stats:</h3>
 
+<table align="center">
+<tbody>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/BEASTBOLTT?theme=dark&amp;font=Yaldevi&amp;ext=heatmap" alt="LeetCode Stats">
+    </td>
+    <td>
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="html5" width="150" height="150"/>
+    </td>
+  </tr>
+</tbody></table>
 
-<p align="center" dir="auto">
-<img src="https://leetcard.jacoblin.cool/BEASTBOLTT?theme=dark&amp;font=Yaldevi&amp;ext=heatmap" alt="LeetCode Stats">
-</p>
 
 
 
