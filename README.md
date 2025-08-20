@@ -1,5 +1,5 @@
 
-<p align="center"  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=I+am+Devam+Pandey......;I+am+a+Software+Engineer......" alt="Typing SVG" /></a> </p>
+<p align="center"  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=455&lines=I+am+Devam+Pandey......;Trying+to+be+a+Software+Engineer......" alt="Typing SVG" /></a> </p>
 
 ---
 - 🌱 I’m currently learning **Web Development**
