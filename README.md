@@ -102,6 +102,7 @@
     </td>
     <td>
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="html5" width="150" height="150"/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="html5" width="150" height="150"/>
     </td>
   </tr>
 </tbody></table>
