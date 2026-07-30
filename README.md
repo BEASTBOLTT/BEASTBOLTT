@@ -1,95 +1,55 @@
-
 <p align="center"  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=455&lines=I+am+Devam+Pandey......;Trying+to+be+a+Software+Engineer......" alt="Typing SVG" /></a> </p>
 
 ---
-- 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [BEASTBOLTT](https://github.com/BEASTBOLTT)
+- 💻 Full Stack Developer focused on the **MERN Stack** and aspiring **Software Engineer**
 
-- 📫 How to reach me at [Email](**devampandeydp27@gmail.com**)
+- 🌱 Currently exploring **Machine Learning & Data Science**
 
-- ⚡ Fun fact **I think I am funny**
+- 👨‍💻 Check out my projects and work on [GitHub](https://github.com/BEASTBOLTT)
 
----
-<h3 align="center">Connect with me:</h3>
+- 🌐 Visit my [Portfolio](https://devampandey.vercel.app)
 
-<table align="center" border = 'Solid'>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://linkedin.com/in/devam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devam pandey" height="60" width="70" /></a>
-      </td>
-      <td>
-        <a href="https://codeforces.com/profile/beastboltt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beastboltt" height="60" width="70" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-       <a href="https://www.leetcode.com/beastboltt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beastboltt" height="60" width="70" /></a>
-      </td>
-      <td>
-        <a href="https://auth.geeksforgeeks.org/user/devampanw5hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devampanw5hd" height="60" width="70" /></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/devam-pandey)
+
+- 📫 Reach me at [pandeydevamdp27@gmail.com](mailto:pandeydevamdp27@gmail.com)
+
+- ⚡ I enjoy building **full-stack applications, integrating AI into projects, and exploring new technologies**
 
 ---
+
 <h3 align="center">Languages and Tools:</h3>
 
-<table align="center" border = 'Solid'>
-  <tbody>
-    <tr>
-    <td>
-       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="70"/> </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="70"/> </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="70"/> </a>
-    </td>
-    <td> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="70"/> </a> 
-    </td>
-  </tr>
-</tbody>
-</table>
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/></a>
+</p>
 
----
-<h3 align="center">Github Stats:</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="55" height="55"/></a>
+</p>
 
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="55" height="55"/></a>
+</p>
 
-
-<table align="center">
-  <tbody><tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=beastboltt&show_icons=true&theme=dark&locale=en" alt="beastboltt" />
-    </td>
-    <td>
-      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=beastboltt&show_icons=true&theme=dark&locale=en&layout=compact" alt="beastboltt" />
-    </td>
-  </tr>
-</tbody></table>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render" alt="Render" width="55" height="55"/></a>
+</p>
 
 ---
 <h3 align="center">Leetcode Stats:</h3>
@@ -125,7 +85,3 @@
             
             
     
-
-
-
-
